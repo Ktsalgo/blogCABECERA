@@ -32,4 +32,5 @@ git remote -v = nos informa los fetch y los push
 
 git pull + nombre archivo + main = extraer de github al computador 
 git pull origin main --allow-unrelated-histories = forzar la conexion de git hub y computador para extraer 
+git push + nombre de la conexion + ...
 
