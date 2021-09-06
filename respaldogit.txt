@@ -1,0 +1,18 @@
+git init - abrir el area de preparacion (staging) y repositorio local   
+git add - ayuda asigarnle un rastreo a un archivo para saber si ese archivo esta teniendo cambios 
+git commit - envia todo lo que esta staging al repositorio
+git commit -am = nos sirve para hacer carga masiva sin hacer GIT add
+Git add . = nos sirve para cargar todo 
+
+
+cuuando se trabaja con un equipo de trabajo uno tiene que tener un repositorio remoto donde todo el mundo puede interactuar 
+git clone - va copiar todo el directorio de trabajo y repositorio local para llevarlo al repositorio  remoto.
+git push - copia del repositorio local para alimentar el repositorio remoto
+git fetch - trae una copia del repositorio remoto y la copia en el repositorio local. pero no la copia en el directorio de trabajo.
+git merge - es para hacer una copia de repositorio local al directorio de trabajo
+git pull - es el que nos hacer una copia del remoto para alimentar el directorio de trabajo y repositorio local
+
+
+git log --stat = mejor forma para visualizar cambios hechos 
+
+

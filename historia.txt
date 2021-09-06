@@ -1,0 +1,22 @@
+hola me llamo Kevin 
+
+Estoy aprendiendo a usar GIT Python CMDER
+
+tengo 31 anos naci en venezuela, viviendo en todo el mundo 
+Estoy haciendo cambios para ver como cargar el git nuevo reemplzando el antiguo
+gi add git commit git show git log git status
+
+'i' es insertar escribir texto . esc, shit.dzz
+
+
+voy hacer un 3er cambio. borra la fecha para ahora poder hacer una comparacion con 
+'Git' diff pega un cod + pega otro cod
+
+hoy hablamos de historia
+
+4ta prueba estamos viendo staging 'git add .' que es donde se mantiene flotando el archivo hasta que le hacemos 
+'git commit -m '....' master es donde se guarda los cambios que quieres que se guarden en ".git"
+y staging es lo que se mantiene en la memoria ram 
+
+
+5to aprendizaje es que con "checkout" puedo extraer algo de memoria master ".git" que haya cargado para poderlo trabajar desde mi computado 
