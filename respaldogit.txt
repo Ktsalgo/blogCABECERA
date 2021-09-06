@@ -25,3 +25,11 @@ git diff = ayuda a comparar el directorio vs el staging
 git checkout COD + nombre archivo = me trae el cambio para establecerlo ne la rama principal ( master  )
 
 GIT merge = tengo que estar parado en donde quiero  que vaya las copias y convocar el origen del que vamos a copiar 
+
+Git remote add "nombre de la conexion" "code que sacamos de git hub" = nos conecta y le da acceso a github para la sincronizacion
+git remote = nos sirve para saber cuales son los nomnbres de las conexiones
+git remote -v = nos informa los fetch y los push
+
+git pull + nombre archivo + main = extraer de github al computador 
+git pull origin main --allow-unrelated-histories = forzar la conexion de git hub y computador para extraer 
+
