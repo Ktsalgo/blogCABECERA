@@ -3,6 +3,7 @@ git add - ayuda asigarnle un rastreo a un archivo para saber si ese archivo esta
 git commit - envia todo lo que esta staging al repositorio
 git commit -m "mensaje" = nos sirve para hacer carga masiva despues del GIT add
 Git add . = nos sirve para cargar todo 
+git commit -am "mensaje" = nos sirve para hacer la carga masiva sin tener que hacer git add
 
 
 cuuando se trabaja con un equipo de trabajo uno tiene que tener un repositorio remoto donde todo el mundo puede interactuar 
@@ -23,3 +24,4 @@ git diff = ayuda a comparar el directorio vs el staging
 
 git checkout COD + nombre archivo = me trae el cambio para establecerlo ne la rama principal ( master  )
 
+GIT merge = tengo que estar parado en donde quiero  que vaya las copias y convocar el origen del que vamos a copiar 
