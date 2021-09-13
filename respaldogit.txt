@@ -34,3 +34,5 @@ git pull + nombre archivo + main = extraer de github al computador
 git pull origin main --allow-unrelated-histories = forzar la conexion de git hub y computador para extraer 
 git push + nombre de la conexion + ...
 
+git log --online = este es bueno para ver un historial resumido"
+
