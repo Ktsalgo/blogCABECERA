@@ -24,4 +24,4 @@ Probando para cargar una imagen
 ![](https://enterate24backup.s3.us-east-2.amazonaws.com/wp-content/uploads/2020/08/30080933/emilio1-x_0_1.jpg)
 
 
-# Este seria el error que quiero cargar pero no se va tocar para pasar a master
+Este es el commit que me quiero llevar
